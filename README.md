@@ -1,11 +1,19 @@
 <div align="center">
 
 <!-- ══════════════════ HEADER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:7400b8,70:00b4d8,100:00ff88&height=230&section=header&text=TEMI1817&fontSize=90&fontColor=00ff88&animation=twinkling&fontAlignY=42&desc=%E2%97%80%20SYSTEM%20ONLINE%20%E2%96%B6&descAlignY=62&descSize=20&descColor=00b4d8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:7400b8,70:00b4d8,100:00ff88&height=230&section=header&text=TEMI1817&fontSize=90&fontColor=00ff88&animation=twinkling&fontAlignY=42&desc=%E2%97%80%20SYSTEM%20ONLINE%20%E2%96%B6&descAlignY=62&descSize=20&descColor=00b4d8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:e0c3fc,70:8ec5fc,100:7400b8&height=230&section=header&text=TEMI1817&fontSize=90&fontColor=7400b8&animation=twinkling&fontAlignY=42&desc=%E2%97%80%20SYSTEM%20ONLINE%20%E2%96%B6&descAlignY=62&descSize=20&descColor=00b4d8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:7400b8,70:00b4d8,100:00ff88&height=230&section=header&text=TEMI1817&fontSize=90&fontColor=00ff88&animation=twinkling&fontAlignY=42&desc=%E2%97%80%20SYSTEM%20ONLINE%20%E2%96%B6&descAlignY=62&descSize=20&descColor=00b4d8"/>
+</picture>
 
 <!-- ══════════════════ TYPING SVG ══════════════════ -->
 <a href="https://github.com/Temi1817">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0;Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B2%D1%81%D1%91+%F0%9F%9A%80" alt="Typing SVG"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0;Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B2%D1%81%D1%91+%F0%9F%9A%80"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=7400b8&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0;Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B2%D1%81%D1%91+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0" alt="Typing SVG"/>
+  </picture>
 </a>
 
 <br/><br/>
@@ -69,13 +77,29 @@
 ### ⚡ TECH STACK
 
 <!-- ALL SKILLS SHOWCASE -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8"/>
+</picture>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=dark&perline=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=dark&perline=8"/>
+</picture>
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=dark&perline=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=dark&perline=8"/>
+</picture>
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=dark&perline=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=dark&perline=8"/>
+</picture>
 
 </div>
 
@@ -86,7 +110,11 @@
 <summary><b>🧠 &nbsp;AI Engineering</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+  </picture>
   <br/><br/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=ff00ff&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Claude_API-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0d0d"/>
@@ -104,7 +132,11 @@
 <summary><b>🌐 &nbsp;Frontend</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=dark"/>
+  </picture>
 </div>
 </details>
 
@@ -113,7 +145,11 @@
 <summary><b>⚙️ &nbsp;DevOps & Infrastructure</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark"/>
+  </picture>
 </div>
 </details>
 
@@ -122,7 +158,11 @@
 <summary><b>🤖 &nbsp;Bots & Automation</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,selenium&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,selenium&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=python,selenium&theme=dark"/>
+  </picture>
   <br/><br/>
   <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d"/>
@@ -136,7 +176,11 @@
 <summary><b>🗄️ &nbsp;Databases</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark"/>
+  </picture>
 </div>
 </details>
 
@@ -145,7 +189,11 @@
 <summary><b>🛠️ &nbsp;Tools</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark"/>
+  </picture>
 </div>
 </details>
 
@@ -160,16 +208,28 @@
 <br/>
 
 <a href="https://github.com/Temi1817">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10&hide_border=false"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=7400b8&icon_color=00b4d8&text_color=0d0d0d&border_color=7400b8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+  </picture>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10&hide_border=false"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=ffffff&title_color=7400b8&text_color=0d0d0d&border_color=7400b8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+  </picture>
 </a>
 
 <br/><br/>
 
 <!-- STREAK -->
 <a href="https://github.com/Temi1817">
-  <img src="https://streak-stats.demolab.com?user=Temi1817&theme=dark&background=0d0d0d&border=7400b8&stroke=7400b8&ring=00ff88&fire=00ff88&currStreakNum=00ff88&sideNums=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Temi1817&background=0d0d0d&border=7400b8&stroke=7400b8&ring=00ff88&fire=00ff88&currStreakNum=00ff88&sideNums=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Temi1817&background=ffffff&border=7400b8&stroke=7400b8&ring=7400b8&fire=ff00ff&currStreakNum=7400b8&sideNums=00b4d8&currStreakLabel=7400b8&sideLabels=0d0d0d&dates=555555&border_radius=10"/>
+    <img src="https://streak-stats.demolab.com?user=Temi1817&background=0d0d0d&border=7400b8&stroke=7400b8&ring=00ff88&fire=00ff88&currStreakNum=00ff88&sideNums=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+  </picture>
 </a>
 
 </div>
@@ -183,7 +243,11 @@
 ### 🌐 ACTIVITY
 
 <a href="https://github.com/Temi1817">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Temi1817&bg_color=0d0d0d&color=00ff88&line=00b4d8&point=7400b8&area=true&area_color=00ff88&hide_border=false&border_color=7400b8&radius=10&custom_title=Temi1817%20Activity%20Graph" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Temi1817&bg_color=0d0d0d&color=00ff88&line=00b4d8&point=7400b8&area=true&area_color=00ff88&border_color=7400b8&radius=10&custom_title=Temi1817%20Activity%20Graph"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Temi1817&bg_color=ffffff&color=7400b8&line=00b4d8&point=ff00ff&area=true&area_color=e0c3fc&border_color=7400b8&radius=10&custom_title=Temi1817%20Activity%20Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Temi1817&bg_color=0d0d0d&color=00ff88&line=00b4d8&point=7400b8&area=true&area_color=00ff88&border_color=7400b8&radius=10&custom_title=Temi1817%20Activity%20Graph" alt="Activity Graph"/>
+  </picture>
 </a>
 
 </div>
@@ -237,8 +301,6 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Temi1817/Temi1817/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> ⚠️ Snake requires a GitHub Action — see setup instructions below.
-
 </div>
 
 <br/>
@@ -257,6 +319,10 @@
 ⠀⠀⠀⠀⠸⣿⣿⣷⣤⣤⣤⣶⣿⣿⣿⠟⠀
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00b4d8,100:7400b8&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00b4d8,100:7400b8&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7400b8,50:8ec5fc,100:e0c3fc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00b4d8,100:7400b8&height=120&section=footer"/>
+</picture>
 
 </div>
