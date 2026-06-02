@@ -68,13 +68,26 @@
 
 ### ⚡ TECH STACK
 
+<!-- ALL SKILLS SHOWCASE -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=dark&perline=8" />
+
 </div>
+
+<br/>
 
 <!-- AI ENGINEER -->
 <details open>
 <summary><b>🧠 &nbsp;AI Engineering</b></summary>
 <br/>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=ff00ff&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Claude_API-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=ff00ff&labelColor=0d0d0d"/>
@@ -91,13 +104,7 @@
 <summary><b>🌐 &nbsp;Frontend</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=dark" />
 </div>
 </details>
 
@@ -106,14 +113,7 @@
 <summary><b>⚙️ &nbsp;DevOps & Infrastructure</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark" />
 </div>
 </details>
 
@@ -122,11 +122,11 @@
 <summary><b>🤖 &nbsp;Bots & Automation</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://skillicons.dev/icons?i=python,selenium&theme=dark" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white&labelColor=0d0d0d"/>
 </div>
 </details>
@@ -136,11 +136,7 @@
 <summary><b>🗄️ &nbsp;Databases</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark" />
 </div>
 </details>
 
@@ -149,12 +145,7 @@
 <summary><b>🛠️ &nbsp;Tools</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/SSH-4EAA25?style=for-the-badge&logo=openssh&logoColor=white&labelColor=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark" />
 </div>
 </details>
 
