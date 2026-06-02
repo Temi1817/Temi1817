@@ -77,33 +77,13 @@
 ### ⚡ TECH STACK
 
 <!-- ALL SKILLS SHOWCASE -->
-<!-- Row 1: Frontend -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&perline=8" />
 <br/>
-<!-- Row 2: DevOps -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark&perline=8"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&perline=8" />
 <br/>
-<!-- Row 3: Databases + AI -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&theme=dark&perline=8"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&perline=8" />
 <br/>
-<!-- Row 4: Tools -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark&perline=8"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&perline=8" />
 
 </div>
 
@@ -114,11 +94,7 @@
 <summary><b>🧠 &nbsp;AI Engineering</b></summary>
 <br/>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <br/><br/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=ff00ff&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Claude_API-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0d0d"/>
@@ -136,11 +112,7 @@
 <summary><b>🌐 &nbsp;Frontend</b></summary>
 <br/>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs&theme=dark"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs" />
 </div>
 </details>
 
@@ -149,11 +121,7 @@
 <summary><b>⚙️ &nbsp;DevOps & Infrastructure</b></summary>
 <br/>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare" />
 </div>
 </details>
 
@@ -162,11 +130,7 @@
 <summary><b>🤖 &nbsp;Bots & Automation</b></summary>
 <br/>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,selenium&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,selenium&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=python,selenium&theme=dark"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,selenium" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d"/>
@@ -180,11 +144,7 @@
 <summary><b>🗄️ &nbsp;Databases</b></summary>
 <br/>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" />
 </div>
 </details>
 
@@ -193,11 +153,7 @@
 <summary><b>🛠️ &nbsp;Tools</b></summary>
 <br/>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi" />
 </div>
 </details>
 
