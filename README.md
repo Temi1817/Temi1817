@@ -5,7 +5,7 @@
 
 <!-- ══════════════════ TYPING SVG ══════════════════ -->
 <a href="https://github.com/Temi1817">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;Script+everything.+Automate+everything.+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0;Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;Script+everything.+Automate+everything.+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -16,6 +16,8 @@
 <a href="https://github.com/Temi1817?tab=followers">
   <img src="https://img.shields.io/github/followers/Temi1817?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=0d0d0d&logo=github" alt="followers"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/AI-ENGINEER-ff00ff?style=for-the-badge&labelColor=0d0d0d&logo=openai&logoColor=ff00ff" alt="ai engineer"/>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d&logo=statuspage" alt="status"/>
 
@@ -34,10 +36,11 @@
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   [+] Role     ::  Frontend Dev / DevOps / SysAdmin          ║
+║   [+] Role     ::  AI Eng / Frontend Dev / DevOps / SysAdmin ║
+║   [+] AI       ::  LLMs · RAG · Prompt Eng · API Integration ║
 ║   [+] Focus    ::  Automation · Bots · Infrastructure        ║
 ║   [+] Stack    ::  JS · Python · Docker · Linux · SQL        ║
-║   [+] Bots     ::  Telegram · WhatsApp                       ║
+║   [+] Bots     ::  Telegram · WhatsApp · AI-powered          ║
 ║   [+] OS       ::  Linux ( btw )                             ║
 ║   [+] Uptime   ::  24/7 — always building                    ║
 ║                                                              ║
@@ -61,6 +64,22 @@
 ### ⚡ TECH STACK
 
 </div>
+
+<!-- AI ENGINEER -->
+<details open>
+<summary><b>🧠 &nbsp;AI Engineering</b></summary>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=ff00ff&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Claude_API-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=ff00ff&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Ollama-ff00ff?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/RAG-ff00ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-ff00ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Vector_DB-ff00ff?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0d0d0d"/>
+</div>
+</details>
 
 <!-- FRONTEND -->
 <details open>
@@ -194,8 +213,9 @@
 ║   [██████████████████████░░] 90%  — Shipping bots...         ║
 ║   [████████████████████████] 100% — Coffee loaded ☕          ║
 ║                                                              ║
-║   CURRENT_TASK   :: Writing scripts no one asked for         ║
-║   COFFEE_LEVEL   :: ██████████ CRITICAL                      ║
+║   CURRENT_TASK   :: Training LLMs + writing scripts          ║
+║   AI_LEVEL       :: ██████████ OVERCLOCKED 🧠                 ║
+║   COFFEE_LEVEL   :: ██████████ CRITICAL ☕                    ║
 ║   BUG_COUNT      :: It's not a bug, it's a feature           ║
 ║   DOCKER_MOOD    :: 🐳 Containers everywhere                  ║
 ║                                                              ║
