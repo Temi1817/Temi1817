@@ -77,28 +77,32 @@
 ### ⚡ TECH STACK
 
 <!-- ALL SKILLS SHOWCASE -->
+<!-- Row 1: Frontend -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8"/>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=light&perline=8"/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python&theme=dark&perline=8"/>
 </picture>
 <br/>
+<!-- Row 2: DevOps -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,git&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,bash,githubactions,ansible,grafana,cloudflare&theme=dark&perline=8"/>
 </picture>
 <br/>
+<!-- Row 3: Databases + AI -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,vscode,vim,postman&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,selenium&theme=dark&perline=8"/>
 </picture>
 <br/>
+<!-- Row 4: Tools -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=dark&perline=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=light&perline=8"/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,github,cloudflare,raspberrypi,ubuntu,debian&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark&perline=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,ubuntu,debian,raspberrypi&theme=dark&perline=8"/>
 </picture>
 
 </div>
