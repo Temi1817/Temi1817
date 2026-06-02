@@ -159,6 +159,24 @@
 
 <br/>
 
+<!-- ══════════════════ CONNECT ══════════════════ -->
+
+<div align="center">
+
+### 📬 CONNECT WITH ME
+
+<a href="https://www.linkedin.com/in/temirlan-aitke-4786582b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Temirlan_Aitke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="mailto:aitketemirlan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-aitketemirlan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+</div>
+
+<br/>
+
 <!-- ══════════════════ STATS ══════════════════ -->
 
 <div align="center">
