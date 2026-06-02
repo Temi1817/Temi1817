@@ -5,7 +5,7 @@
 
 <!-- ══════════════════ TYPING SVG ══════════════════ -->
 <a href="https://github.com/Temi1817">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0;Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;Script+everything.+Automate+everything.+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&random=false&width=750&lines=AI+Engineer+%7C+LLM+%26+Prompt+Architect+%F0%9F%A7%A0;Frontend+Developer+%7C+DevOps+Engineer+%E2%9A%99%EF%B8%8F;SysAdmin+%7C+Automation+Specialist+%F0%9F%A4%96;Telegram+%26+WhatsApp+Bot+Architect+%F0%9F%A4%99;Docker+%7C+SQL+%7C+Linux+Power+User+%F0%9F%90%A7;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B2%D1%81%D1%91+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -18,6 +18,10 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/AI-ENGINEER-ff00ff?style=for-the-badge&labelColor=0d0d0d&logo=openai&logoColor=ff00ff" alt="ai engineer"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RU-Русский-cc0000?style=for-the-badge&labelColor=0d0d0d&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5IDYiPjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjIiIGZpbGw9IiNmZmYiLz48cmVjdCB5PSIyIiB3aWR0aD0iOSIgaGVpZ2h0PSIyIiBmaWxsPSIjMDAzOWE2Ii8+PHJlY3QgeT0iNCIgd2lkdGg9IjkiIGhlaWdodD0iMiIgZmlsbD0iI2Q1MjYyOCIvPjwvc3ZnPg==" alt="russian"/>
+&nbsp;
+<img src="https://img.shields.io/badge/EN-English-00b4d8?style=for-the-badge&labelColor=0d0d0d" alt="english"/>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d&logo=statuspage" alt="status"/>
 
@@ -42,13 +46,14 @@
 ║   [+] Stack    ::  JS · Python · Docker · Linux · SQL        ║
 ║   [+] Bots     ::  Telegram · WhatsApp · AI-powered          ║
 ║   [+] OS       ::  Linux ( btw )                             ║
-║   [+] Uptime   ::  24/7 — always building                    ║
+║   [+] Lang     ::  🇷🇺 Русский  |  🇬🇧 English               ║
+║   [+] Uptime   ::  24/7 — всегда в деле                      ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   $ cat current_mission.txt                                  ║
-║   > Automating the boring stuff since day one.               ║
-║   > If it can be scripted — it WILL be scripted.             ║
+║   > Автоматизирую всё что движется.                          ║
+║   > Если можно скриптануть — будет заскриптовано.            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -253,8 +258,8 @@
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣦⣄⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⠟⠛⠻⣿⣷⡄      > Thanks for visiting!
-⠀⠀⠀⠀⠀⢀⣾⣿⡏⠀⠀⠀⠀⢹⣿⣷     $ echo "Let's build something"
+⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⠟⠛⠻⣿⣷⡄      > Спасибо что заглянул! / Thanks for visiting!
+⠀⠀⠀⠀⠀⢀⣾⣿⡏⠀⠀⠀⠀⢹⣿⣷     $ echo "Давай построим что-нибудь крутое"
 ⠀⠀⠀⠀⢀⣿⣿⣿⣧⣀⣀⣀⣠⣼⣿⣿⡄
 ⠀⠀⠀⠀⣼⣿⠟⠉⠉⠉⠉⠉⠉⠻⣿⣿⡇
 ⠀⠀⠀⠀⣿⣿⣄⠀⠀⠀⠀⠀⢀⣠⣿⣿⡇
