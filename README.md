@@ -187,15 +187,15 @@
 
 <a href="https://github.com/Temi1817">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=7400b8&icon_color=00b4d8&text_color=0d0d0d&border_color=7400b8&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Temi1817&show_icons=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-8zcr.vercel.app/api?username=Temi1817&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-8zcr.vercel.app/api?username=Temi1817&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=7400b8&icon_color=00b4d8&text_color=0d0d0d&border_color=7400b8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-8zcr.vercel.app/api?username=Temi1817&show_icons=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=ffffff&title_color=7400b8&text_color=0d0d0d&border_color=7400b8&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-8zcr.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-8zcr.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=ffffff&title_color=7400b8&text_color=0d0d0d&border_color=7400b8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-8zcr.vercel.app/api/top-langs/?username=Temi1817&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&border_color=7400b8&border_radius=10"/>
   </picture>
 </a>
 
